@@ -7,8 +7,8 @@ A digital **Community Notice Board** built using **HTML**, **CSS**, and **JavaSc
 
 ## 🔗 Live Website
 
-[Visit Community Notice Board Website](community-notice-board-smoky.vercel.app
-)
+[Visit Community Notice Board Website](community-notice-board-smoky.vercel.app)
+
 
 
 📱 QR Code included for easy mobile access and sharing.
